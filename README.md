@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Ayala Lucas! 👋
 
 Actualmente:
-- 🔭 Trabajo en una aplicación de celular sobre nutrición.
+- 🔭 Trabajo en varias aplicaciones de celular.
 - 🌱 Aprendo sobre Node.js.
 - 👯 Busco colaborar en una aplicación de celular.
 - 🤔 Busco ayuda con diseño gráfico.
