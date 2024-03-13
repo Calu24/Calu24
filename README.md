@@ -1,4 +1,4 @@
-### Hola, mi nombre es Ayala Lucas! 👋
+### Hello, my name is Ayala Lucas! 👋
 
-- 📫 Como encontrarme: https://www.linkedin.com/in/lucas-ayala-098b3015b/
-- ⚡ Algo divertido: Amo de los deportes.
+- 📫 How to find me: https://www.linkedin.com/in/lucas-ayala-098b3015b/
+- ⚡ Fun fact: I love sports.
